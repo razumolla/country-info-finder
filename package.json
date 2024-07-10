@@ -1,5 +1,5 @@
 {
-  "name": "countries-info-cooking",
+  "name": "country-info-finder",
   "version": "1.0.0",
   "type": "module",
   "description": "This is the NPM for fetch country details",
@@ -18,10 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/razumolla/countries-info-cooking"
+    "url": "https://github.com/razumolla/country-info-finder"
   },
   "bugs": {
-    "url": "https://github.com/razumolla/countries-info-cooking/issues"
+    "url": "https://github.com/razumolla/country-info-finder/issues"
   },
   "dependencies": {
     "react": "^18.3.1",

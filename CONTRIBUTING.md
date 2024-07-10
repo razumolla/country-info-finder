@@ -2,14 +2,14 @@
 
 ## Introduction
 
-First, thank you for considering contributing to `countries-info-cooking`! It's people like you that make the open source community such a great community! 😊
+First, thank you for considering contributing to `country-info-finder`! It's people like you that make the open source community such a great community! 😊
 
 We welcome any type of contribution, not only code. You can help with:
 
 - **QA:** File bug reports. The more details you can give, the better (e.g., screenshots with the console open).
 - **Marketing:** Write blog posts, how-to's, print stickers, etc.
 - **Community:** Present the project at meetups, organize a dedicated meetup for the local community, etc.
-- **Code:** Take a look at the [open issues](https://github.com/razumolla/countries-info-cooking/issues). Even if you can't write code, commenting on them and showing that you care about a given issue matters. It helps us triage them. To get started, you can also [sign up to triage countries-info-cooking issues on CodeTriage](https://github.com/razumolla/countries-info-cooking).
+- **Code:** Take a look at the [open issues](https://github.com/razumolla/country-info-finder/issues). Even if you can't write code, commenting on them and showing that you care about a given issue matters. It helps us triage them. To get started, you can also [sign up to triage country-info-finder issues on CodeTriage](https://github.com/razumolla/country-info-finder).
 
 ### Your First Contribution
 
@@ -25,10 +25,10 @@ The bigger the pull request, the longer it will take to review and merge. Try to
 
 ### Questions
 
-If you have any questions, create an [issue](https://github.com/razumolla/countries-info-cooking/issues) (protip: do a quick search first to see if someone else didn't ask the same question before!).
+If you have any questions, create an [issue](https://github.com/razumolla/country-info-finder/issues) (protip: do a quick search first to see if someone else didn't ask the same question before!).
 
 ### Credits
 
 #### Contributors
 
-Thank you to all the people who has already contributed to [countries-info-cooking](https://github.com/razumolla/countries-info-cooking/graphs/contributors)!
+Thank you to all the people who has already contributed to [country-info-finder](https://github.com/razumolla/country-info-finder/graphs/contributors)!

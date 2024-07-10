@@ -1,4 +1,4 @@
-# countries-info-cooking
+# country-info-finder
 
 A ReactJS hook to get the country information.
 
@@ -8,7 +8,7 @@ Liked it? Show your support with a STAR (⭐).
 
 ### Many Thanks to all the `Stargazers` who have supported this project with stars (⭐)
 
-[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/razumolla/countries-info-cooking?limit=15)](https://github.com/razumolla/countries-info-cooking/stargazers)
+[![Thanks to all stargazers](https://git-lister.onrender.com/api/stars/razumolla/country-info-finder?limit=15)](https://github.com/razumolla/country-info-finder/stargazers)
 
 ## 📦 Installation
 
@@ -16,10 +16,10 @@ You can install the package using npm or yarn:
 
 ```bash
 # npm
-npm install countries-info-cooking
+npm install country-info-finder
 
 # yarn
-yarn add countries-info-cooking
+yarn add country-info-finder
 ```
 
 ### 🚀 Usage
@@ -27,7 +27,7 @@ yarn add countries-info-cooking
 **Import the package in your app -**
 
 ```js
-import { useCountry } from "countries-info-cooking";
+import { useCountry } from "country-info-finder";
 ```
 
 **Get country information using the hook -**
@@ -40,7 +40,7 @@ const { loading, error, country } = useCountry("Bangladesh");
 
 ```js
 import React from "react";
-import { useCountry } from "countries-info-cooking";
+import { useCountry } from "country-info-finder";
 
 function App() {
   const { loading, error, country } = useCountry("Bangladesh");

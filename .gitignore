@@ -1,4 +1,4 @@
 node_modules
 dist
-countries-info-cooking*.tgz
+country-info-finder*.tgz
 .DS_Store
