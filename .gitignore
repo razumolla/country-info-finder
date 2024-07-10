@@ -1,0 +1,4 @@
+node_modules
+dist
+countries-info-cooking*.tgz
+.DS_Store
