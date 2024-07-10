@@ -16,6 +16,13 @@
   ],
   "author": "Md. Razu Molla",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/razumolla/countries-info-cooking"
+  },
+  "bugs": {
+    "url": "https://github.com/razumolla/countries-info-cooking/issues"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
