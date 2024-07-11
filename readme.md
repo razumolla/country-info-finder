@@ -24,6 +24,8 @@ yarn add country-info-finder
 
 ### 🚀 Usage
 
+1. `useCountry` Hook
+
 **Import the package in your app -**
 
 ```js
@@ -39,7 +41,6 @@ const { loading, error, country } = useCountry("Bangladesh");
 **Example Component :** Here is an example of how you can use the `useCountry` hook in a React component:
 
 ```js
-import React from "react";
 import { useCountry } from "country-info-finder";
 
 function App() {
@@ -63,6 +64,45 @@ function App() {
         <strong>Flag:</strong> {data?.flag}
       </p>
     </div>
+  );
+}
+
+export default App;
+```
+
+2. `useAllCountries` Hook
+
+**Import the package in your app -**
+
+```js
+import { useAllCountries } from "country-info-finder";
+```
+
+**Get all countries' information from the hook: -**
+
+```js
+const { loading, error, countries } = useAllCountries();
+```
+
+**Example Component :** Here is an example of how you can use the `useAllCountries` hook in a React component:
+
+```js
+import { useAllCountries } from "country-info-finder";
+
+function App() {
+  const { loading, error, countries } = useAllCountries();
+
+  if (loading) return <p>Loading...</p>;
+  if (error) return <p>{error}</p>;
+
+  return (
+    <ul>
+      {countries.map((country) => (
+        <li key={country.cca3}>
+          {country.name.common} - {country.flag}
+        </li>
+      ))}
+    </ul>
   );
 }
 
