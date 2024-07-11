@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/razumolla/country-info-finder"
+    "url": "git+https://github.com/razumolla/country-info-finder.git"
   },
   "bugs": {
     "url": "https://github.com/razumolla/country-info-finder/issues"
